@@ -1,0 +1,5 @@
+print(ord('H'))
+print(ord('a'))
+print(ord('1'))
+print(ord('\n'))
+print(ord('G'))

@@ -1,0 +1,10 @@
+stuff = list()
+stuff.append('book')
+stuff.append(3)
+print(stuff)
+stuff.append('bob')
+print(stuff)
+
+print(9 in stuff)
+print('book' in stuff)
+print(6 not in stuff)

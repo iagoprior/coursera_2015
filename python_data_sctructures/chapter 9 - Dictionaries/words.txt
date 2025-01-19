@@ -1,0 +1,2 @@
+There is a new version of the counting words in a file, a new concept.
+Welcome to the world.
